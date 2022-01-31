@@ -32,6 +32,7 @@ Projeto feito durante a primeira aula da [Semana ReactJS](https://sujeitoprogram
 - HTML5
 - SCSS
 - JavaScript
+- React
 - Vite
 
 ## Autor
