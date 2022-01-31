@@ -1,4 +1,4 @@
-# Calculadora de IMC ![](https://img.shields.io/github/license/luizhf42/to-do-app?style=for-the-badge)
+# Calculadora de IMC ![](https://img.shields.io/github/license/luizhf42/calculadora-imc?style=for-the-badge)
 Uma calculadora de IMC bem simples feita na [Semana ReactJS](https://sujeitoprogramador.com/semana-reactjs/)
 
 ## Table of contents
